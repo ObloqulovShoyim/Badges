@@ -1,4 +1,4 @@
-// print hello world
+// Functions
 function hello(params) {
     return "hello world"
 }
